@@ -1,4 +1,4 @@
-name: news_LDA
+name: topic_modeling
 channels:
   - conda-forge
   - defaults
